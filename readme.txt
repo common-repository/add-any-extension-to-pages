@@ -3,7 +3,7 @@ Contributors: Marios Alexandrou
 Donate link: https://infolific.com/technology/software-worth-using/add-any-extension-to-pages/
 Tags: extension, extensions, add extension, page extension
 Requires at least: 5.0
-Tested up to: 6.6
+Tested up to: 6.7
 License: GPLv2 or later
 
 Add any extension of your choosing (e.g. .html, .htm, .jsp, .aspx, .cfm) to WordPress pages.
